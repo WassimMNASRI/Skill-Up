@@ -1,0 +1,26 @@
+
+.home-content .text-3{
+    font-size: 40px;
+    margin: 5px 0;
+}
+.home-content .text-3 span{
+    color:#ed5565;
+    font-weight: 500;
+}
+
+
+
+@media(max-width: 947px){
+    
+   
+	.home-content .text-3{
+        font-size: 35px;
+    }
+    
+    
+@media(max-width: 500px){
+	
+    .home-content .text-3{
+        font-size: 27px;
+    }
+}
