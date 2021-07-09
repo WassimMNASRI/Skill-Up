@@ -24,3 +24,19 @@
         font-size: 27px;
     }
 }
+	
+	
+@media(max-width: 947px){
+    
+   
+	.home-content .text-3{
+        font-size: 19px;
+    }
+    
+    
+@media(max-width: 500px){
+	
+    .home-content .text-3{
+        font-size: 15px;
+    }
+}
